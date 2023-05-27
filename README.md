@@ -19,8 +19,7 @@ Apply data visualization techniques to identify the patterns of the data.
 
 # CODE
 ```
-Name: Dharshini D.S
-Register number: 212221230022
+
 ```
 ```
 #Reading the given dataset
